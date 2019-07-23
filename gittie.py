@@ -1,5 +1,6 @@
 def introduce():
   print('Hello, I\'m Gittie!')
+
 def add():
       a=input('a=')
       b=input('b=')
@@ -7,3 +8,8 @@ def add():
       print('a+b=',c)
 
 add()
+
+
+def joke():
+  return
+
